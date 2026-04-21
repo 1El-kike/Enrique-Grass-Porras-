@@ -1,0 +1,124 @@
+<!--
+  README profesional para perfil de GitHub
+  Autor: Enrique Grass Porras
+  Personaliza los enlaces y el nombre de usuario según tu GitHub real
+-->
+
+<h1 align="center">👋 Hola, soy Enrique Grass Porras</h1>
+<h3 align="center">Ingeniero informático | Full‑stack por convicción | Apasionado de la IA y las buenas arquitecturas</h3>
+
+<p align="center">
+  <a href="https://github.com/enriquegrass" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:enriquegrassporras@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Añade aquí tu LinkedIn cuando tengas -->
+</p>
+
+---
+
+### 🧠 Sobre mí
+
+Ingeniero informático de formación, full‑stack de convicción, enamorado de las buenas arquitecturas y la inteligencia artificial.  
+Me formé para ver **el todo sin perder el detalle**: desde el diseño de una API hasta el último píxel de una interfaz, pasando por bases de datos que conversan en silencio y patrones que sostienen el peso del futuro.
+
+> “No entrego software: entrego soluciones que parecen fáciles… porque detrás hay oficio y cariño.”
+
+Hoy quiero **ayudar, aportar todo lo que sé y formar parte de un colectivo** donde el talento compartido multiplique el impacto individual.
+
+---
+
+### ⚙️ Competencias técnicas
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### DevOps & herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Otros
+- Arquitectura limpia por capas, MVC, microservicios  
+- Integración de APIs, diseño UX, despliegue continuo  
+
+---
+
+### 💼 Experiencia destacada
+
+| Proyecto / Empresa | Rol | Periodo | Logros clave |
+|-------------------|-----|---------|---------------|
+| **Nay'Dreams (EE.UU.)** | Full‑stack | Feb 2025 – Ago 2025 | Sistema multi‑tienda: panel admin + tienda cliente. Arquitectura modular escalable, integración de analytics y monitoreo de ventas. |
+| **CasaCuba (Remoto)** | Full‑stack | 2025 – actualidad | Desarrollo de soluciones tecnológicas para proyectos inmobiliarios: planificación, presupuestos, coordinación con proveedores y supervisión de entregas. |
+| **Empresa DTS (Cuba)** | Frontend | Sep 2022 – Feb 2026 | Trabajo en equipos ágiles (Scrum), participación integral desde desarrollo inicial hasta soporte y despliegue de versiones. |
+| **Freelance** | Desarrollador web | 2022 – actualidad | Creación de sitios web completos: diseño, programación, optimización UX. |
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<!-- Reemplaza "enriquegrass" con tu nombre de usuario real de GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enriquegrass&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegrass&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="48%" />
+</p>
+
+---
+
+### 📫 ¿Hablamos?
+
+- 📧 Correo: [enriquegrassporras@gmail.com](mailto:enriquegrassporras@gmail.com)  
+- 🌐 Portfolio: [enrique-grass.dev](#) *(próximamente – o pon tu enlace real)*  
+- 💼 LinkedIn: [linkedin.com/in/enriquegrass](#) *(te recomiendo crearlo y actualizarlo)*  
+
+---
+
+### ✨ Un extra
+
+⚡ **Dato curioso:** Me formé para ver el todo sin perder el detalle… y aún así sigo perdiendo las llaves de casa.
+
+🎯 **Ahora mismo:** Busco integrarme en un equipo donde el talento compartido multiplique el impacto individual. ¿Tienes algo para mí? Hablemos.
+
+---
+```
+
+🧰 Instrucciones para que lo uses ya mismo
+
+1. Crea el repositorio especial
+      Ve a GitHub → Nuevo repositorio → Nombre exacto: enriquegrass (o tu nombre de usuario real).
+      Debe ser público y marcar la opción “Add a README file”.
+2. Copia y pega
+      Borra el contenido por defecto y pega el README de arriba.
+3. Reemplaza los marcadores
+   · Cambia enriquegrass por tu usuario real en las URLs de las estadísticas y en el badge de GitHub.
+   · Si tienes LinkedIn, añade el enlace real.
+   · Si ya tienes un portfolio, actualiza el enlace.
+4. (Opcional) Ancla repositorios
+      Debajo de tu README (en la vista de perfil) puedes anclar hasta 6 repositorios que muestren proyectos reales: por ejemplo, el sistema de Nay'Dreams, CasaCuba, o cualquier otro que hayas hecho.
+5. Mantén la coherencia
+      Asegúrate de que tu avatar, bio y email en la configuración de GitHub coincidan con el tono profesional del README.
+
+🚀 Bonus: siguientes pasos para un perfil de 10
+
+· Sube el código de tus proyectos más sólidos (con buenos README internos, tests y CI/CD).
+· Contribuye a algún repositorio open source (aunque sea documentación) para que tu calendario de contribuciones se vea activo.
+· Crea un Gist con una configuración útil de Docker o un snippet de arquitectura limpia.
+
+Si quieres, puedo ayudarte a redactar el README de uno de tus proyectos (por ejemplo, el de Nay'Dreams) para que sea igual de profesional. Solo dímelo.
